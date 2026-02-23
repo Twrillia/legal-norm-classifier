@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# 대용량 법령별 CSV 폴더
+data/법령별csv저장/
+
+# 대용량 분류결과 CSV
+data/분류결과_정규식.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
